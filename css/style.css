@@ -7,6 +7,10 @@
   src: url(../css/fonts/Raleway-SemiBold.ttf);
 }
 @font-face {
+  font-family: Raleway-Medium;
+  src: url(../css/fonts/Raleway-Medium.ttf);
+}
+@font-face {
   font-family: Raleway;
   src: url(../css/fonts/Raleway.ttf);
 }
@@ -112,17 +116,29 @@ button img {
 .banner img{
 width: 100%;
   }
-
+.cake-text1{
+  color: rgb(10, 3, 3);
+  font-size: 22px;
+}
+.cake-text span{
+  color: rgb(10, 3, 3);
+  font-size: 22px;
+}
+.cake-text {
+  opacity: 1; 
+  font-size: 18px;
+  font-family: 'Raleway-SemiBold', sans-serif;
+}
 .banner-bottom-bar {
     background-color: #ecb760;
-    padding: 5px;
+    padding: 9px;
     font-family: 'Raleway-SemiBold', sans-serif;
 }
 .image-group img{
-margin: 10px;
+margin: 18px;
 }
 section {
-margin:5%;
+margin:4%;
 }
 .main-img img{
     width: 100%;
@@ -260,7 +276,23 @@ background: #0177b5;
 footer .logo {
 max-width: 200px;
 }
-
+.four-img-group h5 {
+  font-family: "Raleway-SemiBold";
+  opacity: 1.1;
+}
+.img-hieght3 {
+  height: 84%;
+}
+.img-hieght2 {
+  height: 84%;
+}
+.h5-text {
+  font-family: "Raleway-SemiBold";
+  opacity: 1.1; 
+}
+.piece-cake {
+  font-size: 18px;
+}
 .footer h5 {
 font-weight: 500;
 margin-bottom: 10px;
@@ -292,12 +324,23 @@ text-transform: uppercase;
 margin-top: 15px;
 display: block;
 }
-
+.fa{
+ /* height: 33px !important; */
+}
+.mb-2 {
+  font-family: "Raleway-SemiBold";
+}
 .footer .widget2 .media {
 margin-bottom: 20px;
 }
+.footer .widget4 ul li a span{ 
+     color: #f14046;
+    font-size: 18px;
+    margin-left: 12px;
+}
 
 .footer .widget3 ul li a,
+
 .footer .widget4 ul li a {
 font-size: 16px;
 color: #7d4842;
