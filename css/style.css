@@ -206,9 +206,10 @@ background-color: #fcf4db;
 
 
 .footer .widget1 p {
-font-size: 16px;
+font-size: 14px;
 color: rgba(0, 0, 0, 0.6);
 font-family: "Raleway-SemiBold";
+line-height: 19px;
 margin-top: 10px;
 }
 
@@ -342,8 +343,8 @@ margin-bottom: 20px;
 .footer .widget3 ul li a,
 
 .footer .widget4 ul li a {
-font-size: 16px;
-color: #7d4842;
+font-size: 13px;
+color: #bd5448;
 font-family: "Raleway-SemiBold";
 margin-bottom: 5px;
 display: block;
