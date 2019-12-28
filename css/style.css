@@ -192,7 +192,8 @@ background-color: #fcf4db;
 .footer .widget1 p {
 font-size: 16px;
 color: rgba(0, 0, 0, 0.6);
-margin-top: 26px;
+font-family: "Raleway-SemiBold";
+margin-top: 10px;
 }
 
 .footer .socialLinks {
@@ -262,8 +263,9 @@ max-width: 200px;
 
 .footer h5 {
 font-weight: 500;
-margin-bottom: 28px;
+margin-bottom: 10px;
 text-transform: capitalize;
+font-family: "Raleway-SemiBold";
 font-weight: 600;
 color: rgb(0, 0, 0);
 font-size: 21px
@@ -299,8 +301,8 @@ margin-bottom: 20px;
 .footer .widget4 ul li a {
 font-size: 16px;
 color: #7d4842;
-text-transform: capitalize;
-margin-bottom: 13px;
+font-family: "Raleway-SemiBold";
+margin-bottom: 5px;
 display: block;
 }
 
@@ -311,16 +313,18 @@ color: #ffb606;
 }
 
 .footer .widget3 h5 {
-margin-bottom: 22px;
+margin-bottom: 8px;
 font-weight: 600;
+font-family: "Raleway-SemiBold";
 color: rgb(0, 0, 0);
 font-size: 21px;
 line-height: 32px;
 }
 
 .footer .widget4 h5 {
-margin-bottom: 22px;
+margin-bottom: 8px;
 font-weight: 600;
+font-family: "Raleway-SemiBold";
 color: rgb(0, 0, 0);
 font-size: 21px;
 }
